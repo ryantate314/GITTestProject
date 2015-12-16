@@ -6,3 +6,4 @@
  * and open the template in the editor.
  */
 
+echo "<p>This is a test.</p>";
